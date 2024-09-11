@@ -1,0 +1,6 @@
+:root {
+    --gray: #1a1a1a;
+    --black: black;
+
+    --gray-black-gray: radial-gradient(circle at center, var(--gray), var(--black) 40%);
+}
